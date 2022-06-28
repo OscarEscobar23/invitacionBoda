@@ -24,7 +24,16 @@ main{
 h1{
 	font-family: 'Parisienne', cursive;
 }
-
+h2{
+	font-family: 'Parisienne', cursive;
+}
+h3{
+	font-family: 'Parisienne', cursive;
+}
+h4{
+	font-family: 'Cormorant', serif;
+}
 p{
 	font-family: 'Cormorant', serif;
+	
 }

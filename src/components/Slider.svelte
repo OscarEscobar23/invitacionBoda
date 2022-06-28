@@ -1,0 +1,44 @@
+<script>
+
+</script>
+
+
+<div id="carouselExampleControls" class="carousel slide " data-bs-ride="carousel" style="padding-top:30px;">
+    <div class="carousel-inner sizeCarru">
+      <div class="carousel-item active">
+        <img src="../img/boda1.jpg" class="d-block w-100" alt="boda">
+      </div>
+      <div class="carousel-item">
+        <img src="../img/boda2.jpg" class="d-block w-100" alt="boda">
+      </div>
+      <div class="carousel-item">
+        <img src="../img/boda3.jpg" class="d-block w-100" alt="boda">
+      </div>
+      <div class="carousel-item">
+        <img src="../img/boda4.jpg" class="d-block w-100" alt="boda">
+      </div>
+      <div class="carousel-item">
+        <img src="../img/boda5.jpg" class="d-block w-100" alt="boda">
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+
+
+<style>
+
+  .sizeCarru{
+    width:80%;
+    height:35em;
+    margin:0 auto;
+    position:relative;
+  }
+
+</style>

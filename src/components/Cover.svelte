@@ -25,6 +25,8 @@
     margin-top:50px;
     display:flex;
     flex-direction: column;
+    
+    
 }
 .novios{
     border: 3px solid white;
@@ -35,6 +37,7 @@
     justify-content: center;
     margin: auto;
     align-items: center;
+    
     
 }
 .novios h1{
